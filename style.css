@@ -1,0 +1,87 @@
+.header-div{
+   
+background-color: aliceblue;
+
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(199, 196, 196);
+    /* -webkit-box-shadow: inset 6px 74px 90px -24px rgba(245,112,123,1);
+    -moz-box-shadow: inset 6px 74px 90px -24px rgba(245,112,123,1);
+    box-shadow: inset 6px 74px 90px -24px rgba(245,112,123,1); */
+    #image{
+        height: 250px
+        
+        
+}
+#x{
+    font-weight: 100;
+}
+
+header {
+    text-align: center;
+    margin: 50px 0;
+    
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+   
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+   
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+   
+  
+}
+.link{
+    list-style: none;
+    text-align: center; 
+    display: block;
+    margin: 0 10px;
+   
+    
+}
+
+section {
+    padding: 50px 0;
+    text-align: center;
+   
+}
+
+.button a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(254, 254, 254);
+   
+}
+.button{
+  padding: 10px;
+  border-radius: 15px;
+  background-color: #438cd5;
+}
+
+.main{
+    display: flex;
+    gap: 200px;
+}
+
+#location{
+    height:250px ;
+}
+}
+footer {
+    text-align: center;
+    padding: 20px 0;
+}
